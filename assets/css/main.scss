@@ -58,10 +58,10 @@ a:hover {
   color: #165cb3;
 }
 
-/* NAVBAR CLARA MODERNA */
+/* NAVBAR ESCURA E ELEGANTE */
 .masthead {
-  background-color: #ffffff !important;
-  border-bottom: 1px solid #e5e7eb !important;
+  background-color: #1E293B !important; /* cinza azulado */
+  border-bottom: none !important;
 }
 
 .masthead__inner-wrap {
@@ -70,14 +70,15 @@ a:hover {
 }
 
 .masthead__menu-item a {
-  color: #1f2937 !important;
-  font-weight: 600;
+  color: #E2E8F0 !important;
+  font-weight: 500;
   text-transform: none;
 }
 
 .masthead__menu-item a:hover {
-  color: #1a73e8 !important;
+  color: #60A5FA !important; /* azul suave */
 }
+
 
 
 /* 4. Sidebar */
