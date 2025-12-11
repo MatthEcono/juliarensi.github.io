@@ -1,64 +1,94 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum Vitae"
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+# Curriculum Vitae
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+📄 **Lattes:**  
+[https://lattes.cnpq.br/4766159462000923](https://lattes.cnpq.br/4766159462000923)
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+📧 **Email:** mattheusr36@gmail.com  
+🎓 **ORCID:** https://orcid.org/0000-0001-8382-8791
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## 👤 About Me
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Economist with experience in **Health Economics**, **Spatial Econometrics**,  
+**Regional Economics**, **Labor**, and **Education**.  
+PhD Researcher at **UFPE (PIMES)** with a doctoral exchange at the **University of York**.
+
+---
+
+## 🎓 Academic Background
+
+### **PhD in Economics – UFPE (2022– )**  
+*Sandwich period at the University of York*  
+**Thesis:** *Ensaios em Economia da Saúde*  
+**Supervisors:** Tatiane Menezes; Helen Elsey (York)
+
+### **MSc in Economics – UFRN (2018–2020)**  
+**Dissertation:** Determinants of Microcephaly in the Northeast (Econometric-Spatial Analysis)  
+Supervisor: Janaína Alves  
+Keywords: AEDE, Spatial Tobit, Microcephaly
+
+### **BA in Economics – UFCG (2012–2017)**  
+Thesis: *Inserção Comercial Externa dos Produtos Primários Brasileiros no Século XXI*
+
+---
+
+## 🧑‍🏫 Professional & Research Experience
+
+### **Doctoral Researcher – UFPE (2022–present)**  
+CAPES Doctoral Scholarship (Full time)
+
+### **Visiting PhD Researcher – University of York (UK)**  
+Health Sciences Department, supervised by Helen Elsey.
+
+### **Teaching Internship – UFRN (2019)**  
+Course: *Introduction to Econometrics*
+
+### **CAPES Master's Scholarship – UFRN (2018–2020)**
+
+---
+
+## 🌐 Languages
+
+- **English:** Good reading, good comprehension, reasonable speaking and writing  
+- **Spanish:** Good reading, good comprehension, reasonable speaking and writing
+
+---
+
+## 📚 Complementary Training
+
+- **Impact Evaluation of Social Programs** – ENAP  
+- **Ex Ante Policy Analysis** – ENAP  
+- **Statistics Course** – ENAP  
+- **International Relations Foundations** – FGV  
+- **Financial Mathematics** – CIEE  
+
+---
+
+## 🔍 Research Areas
+
+- Health Economics  
+- Spatial Econometrics  
+- Infectious Disease Modeling  
+- Climate & Environment  
+- Regional Economics  
+
+---
+
+## 🔗 External CV Files
+
+- **Full Lattes CV (CNPq):**  
+https://lattes.cnpq.br/4766159462000923
+
+- **HTML version imported from Lattes (local file):**  
+Included in repository as *Currículo Lattes.html*.
+
+---
+
+*Last updated: December 2025*
