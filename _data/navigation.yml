@@ -1,25 +1,25 @@
 main:
 
   - title: "About"
-    url: /mattheusrs.github.io/about/
+    url: /about/
 
   - title: "Publications"
-    url: /mattheusrs.github.io/publications/
+    url: /publications/
 
   - title: "Talks"
-    url: /mattheusrs.github.io/talks/
+    url: /talks/
 
   - title: "Teaching"
-    url: /mattheusrs.github.io/teaching/
+    url: /teaching/
 
   - title: "Portfolio"
-    url: /mattheusrs.github.io/portfolio/
+    url: /portfolio/
 
   - title: "Blog Posts"
-    url: /mattheusrs.github.io/year-archive/
+    url: /year-archive/
 
   - title: "CV"
-    url: /mattheusrs.github.io/cv/
+    url: /cv/
 
   - title: "Guide"
-    url: /mattheusrs.github.io/markdown/
+    url: /markdown/
