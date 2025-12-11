@@ -1,37 +1,25 @@
-# The following is the order of the links in the header of the website.
-#
-# Changing the order here will adjust the order and you can also add additional
-# links. Removing a link prevents it from showing in the header, but does not
-# prevent it from being included in the site.
-#
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
-
 main:
 
- - title: "About"
-    url: /About/
+  - title: "About"
+    url: /mattheusrs.github.io/about/
 
   - title: "Publications"
-    url: /publications/
+    url: /mattheusrs.github.io/publications/
 
   - title: "Talks"
-    url: /talks/    
+    url: /mattheusrs.github.io/talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /mattheusrs.github.io/teaching/
+
   - title: "Portfolio"
-    url: /portfolio/
-        
+    url: /mattheusrs.github.io/portfolio/
+
   - title: "Blog Posts"
-    url: /year-archive/
-    
+    url: /mattheusrs.github.io/year-archive/
+
   - title: "CV"
-    url: /cv/
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+    url: /mattheusrs.github.io/cv/
+
   - title: "Guide"
-    url: /markdown/
+    url: /mattheusrs.github.io/markdown/
