@@ -4,8 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# Curriculum Vitae
-
 📄 **Lattes:**  
 [https://lattes.cnpq.br/4766159462000923](https://lattes.cnpq.br/4766159462000923)
 
