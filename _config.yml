@@ -12,9 +12,9 @@ description: &description "PhD Candidate in Political Science (UFPE)"
 # ================================
 # PROJECT PAGE SETTINGS
 # ================================
-url: "https://matthecono.github.io"
+url: "https://juliarensi.github.io"
 baseurl: "/juliarensi.github.io"
-repository: "MatthEcono/juliarensi.github.io"
+repository: "juliarensi/juliarensi.github.io"
 
 # ================================
 # THEME (REQUIRED)
