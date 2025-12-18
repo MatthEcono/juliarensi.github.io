@@ -5,15 +5,15 @@ author_profile: true
 permalink: /
 ---
 
-Welcome!  
+Welcome!
 
-I am **Mattheus Rodrigues da Silva**, a **PhD Student in Economics at the Federal University of Pernambuco (UFPE)** and **Visiting Researcher at the University of York (UK)**.
+I am **Julia Silva Rensi**, a **PhD Candidate in Political Science at the Federal University of Pernambuco (UFPE)**.
 
 My research focuses on:
 
-- Health Economics  
-- Spatial Econometrics  
-- Public Policy Evaluation  
-- Labor Economics  
+- Foreign Policy Analysis  
+- International Cooperation  
+- China–Latin America Relations  
+- Food Security and Global Governance  
 
-You can explore my **publications, teaching materials, research projects and CV** using the menu above.
+You can explore my **publications, research projects, teaching activities, and CV** using the menu above.
