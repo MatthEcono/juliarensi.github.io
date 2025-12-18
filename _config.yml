@@ -25,7 +25,7 @@ remote_theme: "mmistakes/minimal-mistakes"
 # AUTHOR PROFILE
 # ================================
 author:
-  avatar: "images/profile.png"
+  avatar: "profile.png"
   name: "Julia Silva Rensi"
   bio: >
     PhD candidate in Political Science at the Graduate Program in Political Science
