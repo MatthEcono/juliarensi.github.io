@@ -2,38 +2,47 @@
 layout: single
 title: "Projects"
 permalink: /projects/
+author_profile: true
 ---
 
 # Research Projects
 
-## 1. Socio-environmental determinants of Chikungunya chronification  
-**UFPE (2022–present)**  
-Analysis of long-term Chikungunya symptoms and their effects on labor market outcomes.  
-Methods include georeferenced longitudinal microdata (REPLICK, CADUNICO, RAIS),  
-estimating impacts on absenteeism, job exit, and vulnerability.
+## 1. Interest Groups and Brazilian Foreign Policy: the Soybean Sector (2019–2023)  
+**Graduate research (2023–present)**  
+Research on the role of domestic interest groups in Brazilian foreign policy-making, with a focus on the soybean sector and legislative–executive dynamics. The project examines parliamentary activity, institutional channels of influence, and the political economy of agribusiness in foreign policy outcomes.
 
 ---
 
-## 2. Multilateral Cost of Living Index 
-**CNPQ (2023–present)**  
-Development of a multilateral price index to measure regional inequalities in  
-cost-of-living, poverty, and real income dynamics across Brazil (Universal Grant).
+## 2. Institutional Communication in Brazilian Foreign Policy: Press Releases in the First 100 Days of Lula III  
+**Research project (2023–present)**  
+Content-based analysis of official press releases and public communication strategies in foreign policy. The project explores agenda-setting, framing, and institutional narratives during the first 100 days of Lula III’s administration, connecting communication patterns to broader diplomatic priorities.
+
+---
+
+## 3. International Food Security, Humanitarian Assistance, and Conflict Dynamics  
+**Research agenda (ongoing)**  
+Study of international food aid in civil wars, analyzing whether humanitarian assistance primarily functions as relief or whether it may unintentionally intensify conflict dynamics. The agenda connects food security governance to international cooperation mechanisms and political incentives in crisis contexts.
+
+---
+
+## 4. Corporate Diplomacy, Paradiplomacy, and Subnational Internationalization in Brazil  
+**Research agenda (ongoing)**  
+Investigation of corporate diplomacy and paradiplomacy in Brazil, including the role of business incubators and technology-based firms in subnational strategies of internationalization. The project connects local economic development initiatives to international cooperation and global value chain integration.
+
+---
+
+## 5. Local Perspectives on the Socio-Environmental Effects of Chinese Investments in MATOPIBA  
+**Doctoral research (accepted article; 2024–present)**  
+Qualitative and policy-oriented research on local socio-environmental perceptions and governance challenges associated with Chinese investments in Brazil’s MATOPIBA region. The project focuses on stakeholder perspectives, institutional arrangements, and the interaction between investment flows, environmental impacts, and development strategies.
 
 ---
 
 # Research Assistance
 
-### RCT Impact Evaluation – Fomento Rural  
-**GAPPE–UFPE & Ministry of Social Development (2025)**  
+### Program Evaluation — Food Acquisition Program (PAA), State of Paraíba  
+**Secretariat of Human Development of the State of Paraíba (SEDH) (2014)**  
 
-Supervisors:  
-- Marco Gonzalez-Navarro (UC Berkeley)  
-- Vitor Pereira (ENAP)  
-- Breno Sampaio (UFPE)  
-- Dimitri Szerman (Amazon)  
-
-Role: research assistant in randomized controlled trial involving rural livelihoods,   
-targeting mechanisms, and economic vulnerability.
+Role: contributed to the evaluation of the PAA implemented in eleven municipalities in Paraíba. Activities included development of the evaluation design, preparation and application of surveys with program beneficiaries, data systematization and analysis (Excel/SPSS), and preparation of the final report delivered to state program management.
 
 ---
 
@@ -43,7 +52,7 @@ targeting mechanisms, and economic vulnerability.
 **Conjuntura: uma leitura alternativa**  
 *2016–2017*  
 
-Responsibilities included manuscript editing, evaluation and content curation.
+Responsibilities included manuscript editing, evaluation, and content curation.
 
 ---
 
