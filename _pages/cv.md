@@ -10,12 +10,6 @@ author_profile: true
 **PhD Candidate in Political Science**  
 Federal University of Pernambuco (UFPE), Brazil  
 
-📍 Recife, Brazil  
-🔗 [Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=hBpOaJUAAAAJ) ·
-[ORCID](https://orcid.org/0000-0002-0705-4824) ·
-[ResearchGate](https://www.researchgate.net/profile/Julia_Rensi) ·
-[Lattes CV](http://lattes.cnpq.br/4250173954166434)
-
 ---
 
 ## Academic Positions
