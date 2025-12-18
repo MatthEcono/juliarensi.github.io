@@ -1,75 +1,93 @@
 ---
 layout: single
-title: "Research"
-permalink: /research/
+title: "Publications"
+permalink: /publications/
+author_profile: true
 ---
 
-# Publications
+## Journal Articles
 
-## 📝 Articles in Peer-Reviewed Journals
+**Rensi, Julia**; Mesquita, Murilo.  
+**The Role of the Legislature in Brazilian Foreign Policy:  
+The Soybean Sector as an Interest Group (2019–2023).**  
+*Revista de Estudos Internacionais*, vol. 15, pp. 146–172, 2024.
 
-1. **SILVA, M. R.; TROVÃO, C. J. B. M.; SOUZA, D. M.**  
-   *Perfil socioeconômico do trabalhador agrícola no Brasil: uma análise regional no período de 2011 e 2015.*  
-   **Revista da ABET**, v. 20, p. 456–476, 2021.
+Lima, T.; **Rensi, J. S.**  
+**International Food Inequalities.**  
+*Diálogos Socioambientais*, vol. 7, pp. 22–25, 2024.
 
-2. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
-   *Caracterização histórica do mercado de trabalho no Brasil: da consolidação à reforma trabalhista.*  
-   **Revista de Desenvolvimento Econômico**, v. 2, p. 102–134, 2021.
+Sabia, N.; Silva, M. M. M. E.; **Rensi, J. S.**  
+**Institutional Communication in Foreign Policy:  
+An Analysis of Press Releases During the First 100 Days of Lula III’s Administration.**  
+*Conjuntura Austral*, vol. 14, pp. 40–60, 2023.
 
-3. **SILVA, M. R.; SCHIMIDT, R.; SOUZA, D. M.; BEZERRA, F. K. T.**  
-   *Exportações, inserção comercial e especialização produtiva: uma análise para os produtos primários brasileiros entre 2001 e 2016.*  
-   **Estudo & Debate**, v. 27, p. 46–67, 2020.
+Costa Junior, J. F.; Freitas, L. R. M.; Araújo, M. D.; Costa, M. C.; **Rensi, J. S.**  
+**Corporate Diplomacy, Paradiplomacy, and the Role of Business Incubators:  
+Evidence from Rio Grande do Norte, Brazil.**  
+*Revista de Iniciação Científica em Relações Internacionais*, vol. 9, pp. 61–83, 2022.
 
-4. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; SANTOS, J. O.**  
-   *Informalidade no mercado de trabalho: abordagens conceituais e evolução histórica.*  
-   **Pesquisa & Debate**, v. 32, p. 101–128, 2020.
+Monielle, E.; Maia, L. C.; **Rensi, J. S.**  
+**The Impact of the 2016 U.S. Presidential Election on Environmental Policy  
+and Its Implications for the Paris Agreement.**  
+*Revista de Iniciação Científica em Relações Internacionais*, vol. 8, pp. 77–91, 2021.
 
-5. **SOUZA, D. M.; TROVÃO, C. J. B. M.; SILVA, M. R.; MELO, J. W. F.**  
-   *Informalidade no Brasil: aspectos socioeconômicos dos trabalhadores informais sob a ótica regional.*  
-   **INTERFACE**, v. 15, p. 142–165, 2019.
+**Rensi, J. S.**; Câmara, M. L. B.  
+**Barriers to the Integration of the Warao People in Rio Grande do Norte, Brazil.**  
+*Monções: Revista de Relações Internacionais da UFGD*, vol. 10, pp. 227–259, 2021.
 
+Lima, T.; Belmont, F.; **Rensi, J. S.**  
+**International Food Aid in Civil Wars:  
+Humanitarian Relief or Intensification of Conflict?**  
+*Revista de Estudos Internacionais*, vol. 7, pp. 32–47, 2016.
 
 ---
 
-# 📘 Book Chapters
+## Articles Accepted for Publication
 
-1. **MIRANDA, E. A. A.; ALVES, K. L. A.; SILVA, M. R.; LOPES, R. A.**  
-   *Insumos energéticos no Brasil: uma análise da competitividade do setor.*  
-   In: M. C. A. Miranda (Org.). **Ensaios sobre Desenvolvimento Agrícola**, Campina Grande: Marcone Ltda, 2017, p. 11–28.
-
+**Rensi, J. S.**; Serafim, S. M.; Oliveira, A. F.; **Rensi, Julia.**  
+**Local Perspectives on the Socio-Environmental Effects of Chinese Investments in Matopiba.**  
+*Revista Brasileira de Política Internacional*, forthcoming, 2025.
 
 ---
 
-# 🎤 Conference Papers (Full Papers in Proceedings)
+## Conference Proceedings
 
-1. **SILVA, M. R.; ALVES, J. S.; ANDRE, D. M.; SOUZA, D. M.; FERREIRA, R. C. S.**  
-   *Síndrome congênita do Zika vírus: uma análise espacial dos determinantes da epidemia de 2015–2016 nos municípios brasileiros.*  
-   **Anais da ANPEC**, 51º Encontro Nacional de Economia, Rio de Janeiro, 2023.
+**Rensi, J. S.**; Silva, M. M. M. E.  
+**Pragmatism in Bolsonaro’s Foreign Policy:  
+The Soybean Sector as an Interest Group.**  
+In: *XIX International FOMERCO Conference*, João Pessoa, Brazil, 2023.
 
-2. **FERREIRA, R. C. S.; JUSTO, W. R.; ALVES, P. J. H. F.; SILVA, M. R.; SOUZA, D. M.**  
-   *Impacto do bônus educacional na proficiência em português e matemática nas escolas de Pernambuco.*  
-   **Anais da ANPEC**, 51º Encontro Nacional de Economia, Rio de Janeiro, 2023.
+**Rensi, J. S.**  
+**Business Incubators as Instruments of Corporate Diplomacy and Paradiplomacy:  
+A Study in Rio Grande do Norte, Brazil.**  
+In: *15th Public Management Conference of Rio Grande do Norte (CONGESP)*, Natal, Brazil, 2022.
 
-3. **SILVA, M. R.; ALVES, D. F.; ALVES, J. S.**  
-   *Análise da inserção internacional da região Nordeste nos anos de 2007–2017.*  
-   **XIII SOBER Nordeste**, 2018.
+**Rensi, J. S.**; Costa Junior, J. F.; Araújo, M. D.; Cabral, E. L. S.; Pires, A. K. S.  
+**Internationalization Barriers Faced by Technology-Based SMEs  
+in Rio Grande do Norte, Brazil.**  
+In: *XLV ANPAD Annual Meeting*, 2021.
 
-4. **ALVES, K. L. A.; OLIVEIRA, A. J.; SILVA, M. R.; SILVA, S. S. A.**  
-   *Importância da adoção das tecnologias de irrigação no polo Petrolina/Juazeiro.*  
-   **XVI Semana de Economia da URCA**, 2017.
+**Rensi, J. S.**  
+**Gender and Internet Governance:  
+An Analysis of Civil Society Mobilization.**  
+In: *6th ABRI Meeting*, Belo Horizonte, Brazil, 2017.
 
-5. **ALVES, K. L. A.; SILVA, S. S. A.; SILVA, M. R.**  
-   *Inserção comercial da Paraíba: participação na relação comercial Brasil–Resto do Mundo, 2000–2015.*  
-   **XII SOBER Nordeste**, Itabaiana–SE, 2017.
+**Rensi, J. S.**  
+**Cyberfeminisms: Deconstructing Gender on the Internet.**  
+In: *3rd International Seminar “Undoing Gender”*, Campina Grande, Brazil, 2017.
 
-6. **MIRANDA, E. A. A.; SILVA, M. R.; ALVES, K. L. A.; LOPES, R. A.**  
-   *Insumos energéticos: competitividade do setor.*  
-   **54º SOBER**, Maceió–AL, 2016.
+**Rensi, J. S.**; Dias, A.; Santana, J. Q.  
+**The Paraíba Experience of the Food Acquisition Program (PAA):  
+An Evaluation from the Perspective of Beneficiary Farmers.**  
+In: *IV Brazilian Public Administration Meeting*, João Pessoa, Brazil, 2016.
 
-7. **SILVA, M. R.; ALVES, K. L. A.; SILVA, S. S. A.**  
-   *Setor agrícola brasileiro: competitividade dos principais produtos.*  
-   **XI Congresso Regional da SOBER Nordeste**, Mossoró–RN, 2016.
+**Rensi, J. S.**; **Rensi, J.**  
+**Internationalization of Dual Agricultural Models:  
+An Analysis of Brazilian Technical Cooperation Policy.**  
+In: *3rd International Relations Seminar*, Florianópolis, Brazil, 2016.
 
-8. **SILVA, M. R.; ALVES, K. L. A.; SILVA, S. S. A.; OLIVEIRA, A. J.**  
-   *A importância do complexo agroindustrial de Petrolina/Juazeiro para o desenvolvimento regional.*  
-   **XI Congresso Regional da SOBER Nordeste**, Mossoró–RN, 2016.
+---
+
+For an updated and complete list of publications, please visit my  
+[Google Scholar](https://scholar.google.com/citations?hl=pt-BR&user=hBpOaJUAAAAJ)  
+or [Lattes CV](http://lattes.cnpq.br/4250173954166434).
