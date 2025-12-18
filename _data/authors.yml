@@ -1,18 +1,21 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+primary:
+  name: "Julia Silva Rensi"
+  avatar: "images/profile.png"
+  bio: >
+    PhD candidate in Political Science at the Graduate Program in Political Science
+    of the Federal University of Pernambuco (UFPE).
+    She holds an MSc in International Relations from the State University of Rio de Janeiro (UERJ)
+    and a BA in International Relations from the Federal University of Paraíba (UFPB).
+    Her research focuses on foreign policy analysis, international cooperation,
+    China–Latin America relations, food security, and global governance.
+  location: "Recife, Brazil"
+  employer: "Federal University of Pernambuco (UFPE)"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar: "/images/profile.png"
-  twitter     : "name2"
-  google_plus : "Name"
+  googlescholar: "https://scholar.google.com/citations?hl=pt-BR&user=hBpOaJUAAAAJ"
+  researchgate: "https://www.researchgate.net/profile/Julia_Rensi"
+  orcid: "https://orcid.org/0000-0002-0705-4824"
+  lattes: "http://lattes.cnpq.br/4250173954166434"
+  github: "juliarensi"
+  linkedin: "julia-rensi-53268a11b"
