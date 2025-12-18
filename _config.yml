@@ -3,33 +3,42 @@
 # ================================
 locale: "en-US"
 site_theme: "default"
-title: "Mattheus Rodrigues da Silva"
+
+title: "Julia Rensi"
 title_separator: "-"
-name: &name "Mattheus Rodrigues da Silva"
-description: &description "PhD Student in Economics | Health Economics | Spatial Econometrics"
-url: "https://matthecono.github.io"
+name: &name "Julia Rensi"
+description: &description "PhD Candidate in Political Science (UFPE)"
+
+url: "https://juliarensi.github.io"
 baseurl: ""
-repository: "Matthecono/matthecono.github.io"
+repository: "MatthEcono/juliarensi.github.io"
 
 # ================================
 # AUTHOR PROFILE
 # ================================
 author:
-  avatar           : "profile.png"
-  name             : "Mattheus Rodrigues da Silva"
-  bio              : "PhD Student in Economics at UFPE. Visiting Researcher at the University of York. Research in Health Economics, Spatial Econometrics, Climate and Infectious Diseases."
-  location         : "York, United Kingdom"
-  employer         : "Federal University of Pernambuco (UFPE) & University of York"
-  email            : "mattheusr36@gmail.com"
+  avatar   : "/images/profile.png"
+  name     : "Julia Silva Rensi"
+  bio      : >
+    PhD candidate in Political Science at the Graduate Program in Political Science
+    of the Federal University of Pernambuco (UFPE).
+    She holds an MSc in International Relations from the State University of Rio de Janeiro (UERJ)
+    and a BA in International Relations from the Federal University of Paraíba (UFPB).
+    Her research focuses on foreign policy, international cooperation,
+    China–Latin America relations, food security, and global governance.
+  location : "Recife, Brazil"
+  employer : "Federal University of Pernambuco (UFPE)"
+  email    : ""
 
-  # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=n3D1gcMAAAAJ&hl=pt-BR"
-  orcid            : "https://orcid.org/0000-0001-8382-8791"
-  lattes           : "http://lattes.cnpq.br/6020837927478389"
-  linkedin         : "mattheusr"
+  # Academic profiles
+  googlescholar : "https://scholar.google.com/citations?hl=pt-BR&user=hBpOaJUAAAAJ"
+  researchgate  : "https://www.researchgate.net/profile/Julia_Rensi"
+  orcid         : "https://orcid.org/0000-0002-0705-4824"
+  lattes        : "http://lattes.cnpq.br/4250173954166434"
 
-  # Repositories
-  github           : "Matthecono"
+  # Social / repositories (optional)
+  github   : ""
+  linkedin : ""
 
 # ================================
 # PUBLICATION CATEGORIES
@@ -75,6 +84,7 @@ analytics:
 include:
   - _pages
   - files
+
 exclude:
   - .github
   - node_modules
@@ -83,6 +93,7 @@ exclude:
   - Gemfile
   - LICENSE
   - README
+
 encoding: "utf-8"
 
 # ================================
@@ -100,15 +111,12 @@ kramdown:
 # COLLECTIONS
 # ================================
 collections:
-  teaching:
-    output: true
-    permalink: /teaching/:path/
   publications:
     output: true
     permalink: /publications/:path/
-  portfolio:
+  teaching:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /teaching/:path/
   talks:
     output: true
     permalink: /talks/:path/
@@ -145,7 +153,7 @@ permalink: /:categories/:title/
 timezone: Etc/UTC
 
 # ================================
-# PLUGINS (SAFE FOR GITHUB)
+# PLUGINS (SAFE FOR GITHUB PAGES)
 # ================================
 plugins:
   - jekyll-feed
@@ -169,6 +177,7 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/
