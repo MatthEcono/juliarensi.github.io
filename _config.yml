@@ -9,9 +9,15 @@ title_separator: "-"
 name: &name "Julia Rensi"
 description: &description "PhD Candidate in Political Science (UFPE)"
 
-url: "https://juliarensi.github.io"
-baseurl: ""
+# IMPORTANT: PROJECT PAGE SETTINGS
+url: "https://matthecono.github.io"
+baseurl: "/juliarensi.github.io"
 repository: "MatthEcono/juliarensi.github.io"
+
+# ================================
+# THEME (REQUIRED)
+# ================================
+remote_theme: "mmistakes/minimal-mistakes"
 
 # ================================
 # AUTHOR PROFILE
@@ -36,7 +42,7 @@ author:
   orcid         : "https://orcid.org/0000-0002-0705-4824"
   lattes        : "http://lattes.cnpq.br/4250173954166434"
 
-  # Social / repositories (optional)
+  # Optional
   github   : ""
   linkedin : ""
 
