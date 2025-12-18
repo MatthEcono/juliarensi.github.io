@@ -1,6 +1,13 @@
 ---
 layout: single
 title: "About"
+author_profile: true
+author:
+avatar: /images/profile.png
+---
+---
+layout: single
+title: "About"
 permalink: /about/
 author_profile: true
 ---
