@@ -2,6 +2,7 @@
 layout: single
 title: "About"
 permalink: /about/
+author: Julia Rensi
 author_profile: true
 ---
 
