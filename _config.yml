@@ -9,7 +9,9 @@ title_separator: "-"
 name: &name "Julia Rensi"
 description: &description "PhD Candidate in Political Science (UFPE)"
 
-# IMPORTANT: PROJECT PAGE SETTINGS
+# ================================
+# PROJECT PAGE SETTINGS
+# ================================
 url: "https://matthecono.github.io"
 baseurl: "/juliarensi.github.io"
 repository: "MatthEcono/juliarensi.github.io"
@@ -23,28 +25,28 @@ remote_theme: "mmistakes/minimal-mistakes"
 # AUTHOR PROFILE
 # ================================
 author:
-  avatar: "/images/profile.png"
-  name     : "Julia Silva Rensi"
-  bio      : >
+  avatar: "images/profile.png"
+  name: "Julia Silva Rensi"
+  bio: >
     PhD candidate in Political Science at the Graduate Program in Political Science
     of the Federal University of Pernambuco (UFPE).
     She holds an MSc in International Relations from the State University of Rio de Janeiro (UERJ)
     and a BA in International Relations from the Federal University of Paraíba (UFPB).
-    Her research focuses on foreign policy, international cooperation,
+    Her research focuses on foreign policy analysis, international cooperation,
     China–Latin America relations, food security, and global governance.
-  location : "Recife, Brazil"
-  employer : "Federal University of Pernambuco (UFPE)"
-  email    : ""
+  location: "Recife, Brazil"
+  employer: "Federal University of Pernambuco (UFPE)"
+  email: ""
 
   # Academic profiles
-  googlescholar : "https://scholar.google.com/citations?hl=pt-BR&user=hBpOaJUAAAAJ"
-  researchgate  : "https://www.researchgate.net/profile/Julia_Rensi"
-  orcid         : "https://orcid.org/0000-0002-0705-4824"
-  lattes        : "http://lattes.cnpq.br/4250173954166434"
+  googlescholar: "https://scholar.google.com/citations?hl=pt-BR&user=hBpOaJUAAAAJ"
+  researchgate: "https://www.researchgate.net/profile/Julia_Rensi"
+  orcid: "https://orcid.org/0000-0002-0705-4824"
+  lattes: "http://lattes.cnpq.br/4250173954166434"
 
-  # Optional
-  github   : ""
-  linkedin : ""
+  # Social profiles (usernames only)
+  github: "juliarensi"
+  linkedin: "julia-rensi-53268a11b"
 
 # ================================
 # PUBLICATION CATEGORIES
